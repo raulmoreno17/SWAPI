@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SWAPI/static/css/main.e6c13ad2.css",
+    "main.js": "/SWAPI/static/js/main.1fcbf84a.js",
+    "static/js/787.b1b501c9.chunk.js": "/SWAPI/static/js/787.b1b501c9.chunk.js",
+    "index.html": "/SWAPI/index.html",
+    "main.e6c13ad2.css.map": "/SWAPI/static/css/main.e6c13ad2.css.map",
+    "main.1fcbf84a.js.map": "/SWAPI/static/js/main.1fcbf84a.js.map",
+    "787.b1b501c9.chunk.js.map": "/SWAPI/static/js/787.b1b501c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1fcbf84a.js"
+  ]
+}
